@@ -97,7 +97,7 @@ h3 {
   margin: 10px;
 }
 
-.email-link {
+.email-link, .github-link {
   display: flex;
   justify-content: center;
   color: var(--primary-color);
